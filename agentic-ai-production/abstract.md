@@ -2,7 +2,7 @@
 
 **Date:** 2025-12-20
 **Venue:** Pune
-**Speaker:** Deepak Agarwal
+**Speaker:** Deepak Agarwal and Niteen Badgujar
 
 ## Synopsis
 
