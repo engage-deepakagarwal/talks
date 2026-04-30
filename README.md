@@ -4,6 +4,7 @@
 
 | Date | Talk | Venue | Materials |
 |------|------|-------|-----------|
+| 2025-12-20 | From Vibe-Coded MVP to Production-Grade Agentic AI | Pune | [`agentic-ai-production/`](agentic-ai-production/) |
 
 ## About
 
